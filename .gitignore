@@ -1,0 +1,2 @@
+#skip the environment file with all its modules
+/env_microserviceB
